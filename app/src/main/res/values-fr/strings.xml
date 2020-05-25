@@ -64,6 +64,7 @@
 
     <!-- Notes Activity strings -->
     <string name="notes">Notes</string>
+    <string name="links">Liens</string>
     <string name="title_dialog">Titre:</string>
     <string name="add_note">Ajoutez une note</string>
     <string name="edit_note">éditez la note</string>

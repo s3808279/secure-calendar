@@ -8,7 +8,7 @@
 
     <!-- Fragments strings -->
     <string name="monday">Monday</string>
-    <string name="tuesday">Tuesday2</string>
+    <string name="tuesday">Tuesday</string>
     <string name="wednesday">Wednesday</string>
     <string name="thursday">Thursday</string>
     <string name="friday">Friday</string>
@@ -64,6 +64,7 @@
 
     <!-- Notes Activity strings -->
     <string name="notes">Notes</string>
+    <string name="links">Links</string>
     <string name="title_dialog">Title:</string>
     <string name="add_note">Add note</string>
     <string name="edit_note">Edit note</string>
